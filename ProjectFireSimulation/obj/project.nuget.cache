@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kA1pC+yybJQ+qzaULNshwLGCWmcovc2zAprD5kJGcs/1MGcI+aJAzSnhJp3XPPRkBMld9IpLr1+8/hSlLGrCYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Freelancing\\salmanpaul987\\ORDER-4 -DEC-05-2019\\ProjectFireSimulation\\ProjectFireSimulation\\ProjectFireSimulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
